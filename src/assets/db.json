@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "Some random posters",
+      "userId": 23,
+      "id": "1"
+    },
+    {
+      "title": "Post2",
+      "body": "Some 2323 random posters",
+      "userId": 26,
+      "id": "2"
+    },
+    {
+      "id": 518.4822590740013,
+      "title": "First",
+      "body": "Second",
+      "userId": 564.3181945553168
+    },
+    {
+      "id": 548.7936374050948,
+      "title": "Third",
+      "body": "Fourth",
+      "userId": 892.8739975240638
+    },
+    {
+      "id": 287.62101038006136,
+      "title": "Sixth",
+      "body": "Seventh",
+      "userId": 149.04035263105175
+    }
+  ]
+}
